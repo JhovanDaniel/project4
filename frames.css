@@ -1,0 +1,50 @@
+
+
+
+div.userslist{
+	position: absolute;
+	left: 20px;
+	top: 140px;
+}
+
+div.messages{
+	position: absolute;
+	left: 435px;
+	top: 140px;
+}
+
+div.mail{
+	position: absolute;
+	left: 1050px;
+	top: 140px;
+}
+
+
+div.usertable{
+	position: absolute;
+	top: 25px;
+	left: 10px;
+	width: 300px;
+}
+
+div.messagetable{
+	position: absolute;
+	top: 0px;
+	left: 10px;
+	width: 300px;
+}
+
+div.readbox{
+	position: absolute;
+	top: 140px;
+	left: 400px;
+	width: 300px;
+}
+
+div.readbox form{
+	position: absolute;
+	top: 20px;
+	left: 20px;
+	border: none;
+}
+
